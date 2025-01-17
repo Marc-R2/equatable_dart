@@ -9,4 +9,5 @@ dependencies:
 
 dev_dependencies:
   benchmarking: ^0.6.1
+  meta: ^1.16.0
   test: ^1.16.0
